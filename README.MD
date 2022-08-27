@@ -16,7 +16,7 @@ This is the data set used for The Third International Knowledge Discovery and Da
 
 
 
-Procedure followed in this for pipeling is:
+Steps followed for this problem:
 
 i). Data exploration and developing insights with data visualization
 
